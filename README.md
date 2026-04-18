@@ -2,9 +2,9 @@
 
 This repository contains the code, simulation framework, and evaluation results for the research paper:
 
-**"Dynamic Grid Navigation for Autonomous Driving: A Reinforcement Learning Approach to Self-Parking and Reversing"**
+**SmartGridDrive: Adaptive Q-Learning Framework for Precision Self-Parking and Reverse Navigation in Dynamic Autonomous Systems"**
 
-Submitted to *EVOS* (Elsevier) Journal, 2025.
+ 
 
 ## 🔍 Overview
 
